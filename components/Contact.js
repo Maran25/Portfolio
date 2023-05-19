@@ -37,7 +37,7 @@ const Contact = () => {
   };
 
   return (
-    <div className="md:mt-28 mt-96 md:mb-28 w-10/12 mx-auto">
+    <div className="md:mt-16 mt-72 md:mb-28 w-10/12 mx-auto">
       <div className=" flex flex-col justify-center w-full h-full">
         <h1 className="text-3xl md:text-5xl text-center mb-12 font-semibold">
           <span className="text-rose-800">Contact</span> Me
