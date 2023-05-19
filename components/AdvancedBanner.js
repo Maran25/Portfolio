@@ -44,7 +44,7 @@ function AdvancedBanner() {
     shouldAlwaysCompleteAnimation: true,
     children: (
         <div className="absolute inset-0 flex items-end justify-center">
-        <h1 className="text-white text-xs md:text-base mb-14 cursor-pointer">Scroll Down</h1>
+        <h1 className="text-white text-xs md:text-base mb-20 cursor-pointer">Scroll Down</h1>
         </div>
     )
   };
