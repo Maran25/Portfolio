@@ -7,7 +7,7 @@ import { FaReact } from "react-icons/fa"
 
 const Projects = () => {
   return (
-    <div className="mt-9 md:mt-28 h-screen w-11/12 mx-auto flex gap-y-6 flex-col items-center">
+    <div className="mt-9 md:mt-28 h-screen w-11/12 mx-auto flex gap-y-6 md:gap-y-0 flex-col items-center">
       <h1 className="text-3xl md:text-5xl mb-10 md:mb-16 font-semibold">
         Discover My <span className="text-rose-800">Projects</span>
       </h1>
