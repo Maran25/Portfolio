@@ -5,7 +5,7 @@ function AdvancedBanner() {
 
   const background = {
     image:
-      "https://photos.app.goo.gl/mQuonif6aKAKqfoz6",
+      "https://photos.app.goo.gl/fo5heJt18ZBQeecW9",
     translateY: [0, 50],
     opacity: [1, 0.3],
     scale: [1.05, 1, "easeOutCubic"],
@@ -38,7 +38,7 @@ function AdvancedBanner() {
 
   const foreground = {
     image:
-      "https://photos.app.goo.gl/gqkmHXRZKBx7RMzRA",
+      "https://photos.app.goo.gl/z6YEWTGBi8tuNKWy5",
     translateY: [0, 15],
     scale: [1, 1.1, "easeOutCubic"],
     shouldAlwaysCompleteAnimation: true,
