@@ -23,7 +23,7 @@ function AdvancedBanner() {
           <p className="mb-3 text-white/80 font-bold bg-slate-800 p-2">
             <span className="text-blue-500">{`<p>`}</span>
             HELLO, WORLD
-            <span className="text-blue-500">{`<p>`}</span>
+            <span className="text-blue-500">{`</p>`}</span>
           </p>
           <h1 className="text-4xl md:text-6xl text-white font-semibold">
             I'm Manimaran
